@@ -1,0 +1,9 @@
+spacy
+pattern
+
+[app]
+flask
+sqlalchemy
+
+[test]
+pytest
